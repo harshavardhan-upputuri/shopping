@@ -1,0 +1,17 @@
+# Database data
+**/mysql/
+**/mysql-data/
+**/volume-data/
+
+# IDE
+.idea/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
